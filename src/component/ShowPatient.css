@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-bottom: 10px;
+}
+
+.setSize{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container-flex{
+    flex: 40%;
+}
